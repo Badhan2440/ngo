@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>278824576801-am377kjl6cliq1ag3g986k8e2m85llr1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.278824576801-am377kjl6cliq1ag3g986k8e2m85llr1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCfpUVdPQFJetgMmZPxSlAuWHuQy64hkVM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>278824576801</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.myNgo</string>
+	<key>PROJECT_ID</key>
+	<string>my-ngo-91b72</string>
+	<key>STORAGE_BUCKET</key>
+	<string>my-ngo-91b72.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:278824576801:ios:466d46ffd9e1b2c23fc060</string>
+</dict>
+</plist>
